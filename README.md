@@ -4,21 +4,19 @@
 <meta name="theme-color" content="#ffffff">
 <meta name="language" content="en">
 <meta name="revisit-after" content="7 days">
-<meta name="author" content="TOOLS APP">
+<meta name="author" content="weblast">
 
 <!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://tools-app.com/">
-<meta property="og:title" content="TOOLS APP - All Premium Apps in One Platform">
+<meta property="og:url" content="https://weblast.my.id/">
+<meta property="og:title" content="WEBLAST - All Premium Apps in One Platform">
 <meta property="og:description" content="Access 100+ premium applications through one affordable subscription. Transform your digital experience today.">
-<meta property="og:image" content="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
+<meta property="og:image" content="https://github.com/weblast-store/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
 
 <!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://tools-app.com/">
-<meta property="twitter:title" content="TOOLS APP - All Premium Apps in One Platform">
+<meta property="twitter:url" content="https://weblast.my.id/">
+<meta property="twitter:title" content="WEBLAST - All Premium Apps in One Platform">
 <meta property="twitter:description" content="Access 100+ premium applications through one affordable subscription. Transform your digital experience today.">
-<meta property="twitter:image" content="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
+<meta property="twitter:image" content="https://github.com/weblast-store/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
 
 # WEBLAST TOOLS FOR MARKETING
 
@@ -44,6 +42,20 @@
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS**: Styling and designing beautiful web interfaces.
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML**: Structuring web content with semantic markup.
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) **PHP**: Powering dynamic web applications with ease.
+
+
+---
+
+- 🔥 Powerful Marketing Tools & Extensions
+- 💰 Affordable Premium Features (Starting from Rp.100.000)
+- 🤖 Advanced Automation Capabilities
+- 📊 Comprehensive Analytics Dashboard
+- 🔒 Secure & Reliable Platform
+- 🌐 24/7 Technical Support
+- 📈 Boost Your Marketing Performance
+- ⚡ High-Speed Data Processing
+- 🔄 Seamless Integration Options
+- 🎯 Targeted Marketing Solutions
 
 ---
 <div align="center">
